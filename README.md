@@ -1,5 +1,5 @@
 # EGTM
-Event-guided Efficient Turbulence Mitigation
+EGTM: Event-guided Efficient Turbulence Mitigation
 
 EGTM: Event-guided Efficient Video Turbulence Mitigation for Static Scene Restoration
 
